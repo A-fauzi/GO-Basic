@@ -53,10 +53,9 @@
 > > _go get -u github.com/segmentio/kafka-go_
 >
 > Command go get harus dijalankan dalam folder project.
->
-> Command **go mod tidy**
 
 > command **go mod tidy**
+>
 > Command _go mod tidy_ digunakan untuk memvalidasi dependensi. Jika ada dependensi yang belum ter-download, maka akan otomatis di-download.
 
 > command **go mpd vendor**
