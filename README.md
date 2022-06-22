@@ -23,3 +23,13 @@
 > > _go run main.go_
 >
 > command **go run** hanya bisa digunakan pada file yang didalam nya terdapat _package main_
+
+> command **go test***
+>
+> Go menyediakan package testing, berguna untuk keperluan _unit test._ File yang akan di test harus memiliki akhiran *_test.go*. berikut contoh: 
+>>_go test main_test.go_
+
+
+
+
+
