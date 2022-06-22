@@ -18,3 +18,6 @@ func main() {
 	// Di program pertama yang telah kita buat, fungsi ini memunculkan tulisan Hello world.
 	fmt.Println("Hello World")
 }
+
+// Komentar single line
+// komentar multi line
